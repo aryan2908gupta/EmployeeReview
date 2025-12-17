@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|c:\\users\\aryan\\onedrive\\desktop\\employee\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|solutionrelative:employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|c:\\users\\aryan\\onedrive\\desktop\\employee\\employee\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|solutionrelative:interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|c:\\users\\aryan\\onedrive\\desktop\\employee\\employee\\entity\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|solutionrelative:entity\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|c:\\users\\aryan\\onedrive\\desktop\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|c:\\users\\aryan\\onedrive\\desktop\\employee\\employee\\employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECBB4099-FE31-4F0C-A2B0-51CD12842415}|Employee.csproj|solutionrelative:employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:34:02.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:15:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Entity\\Emp.cs",
+              "RelativeDocumentMoniker": "Entity\\Emp.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Entity\\Emp.cs",
+              "RelativeToolTip": "Entity\\Emp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:00:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Employee.csproj",
+              "RelativeDocumentMoniker": "Employee.csproj",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Employee.csproj",
+              "RelativeToolTip": "Employee.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T06:00:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T05:59:01.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
